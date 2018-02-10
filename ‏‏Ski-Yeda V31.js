@@ -2621,7 +2621,7 @@ p.nominalBounds = new cjs.Rectangle(-70.2,-76,164.8,173.6);
 		function init() {
 			createjs.Sound.registerSound("/sounds/_true.mp3", "true");
 			createjs.Sound.registerSound("/sounds/_false.mp3", "false");
-			createjs.Sound.registerSound("/sounds/end.mp3", "end");
+			createjs.Sound.registerSound("https://nitzangreen.github.io/Ski/sounds/end.mp3, "end");
 		}
 		
 		/*
